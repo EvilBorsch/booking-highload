@@ -4,8 +4,7 @@
 Сервис по планированию путешесвий (TripAdvisor)
 
 ## 2. **Определение возможного диапазона нагрузок подобного проекта**
-### Самые крупные сервисы:
-## TripAdvisor
+### TripAdvisor
 Месячная аудитория- 490 миллионов [Источник](https://review42.com/tripadvisor-statistics/)
 Среднее время проведения на подобных сайтах- 3 минуты [Источник](https://www.similarweb.com/website/tripadvisor.com/)
 
